@@ -1,5 +1,5 @@
 # Babak Ghaemian
-## Cybersecurity Portfolio
+
 
 Welcome to my cybersecurity skill development portfolio. This site documents my hands-on lab work.
 
