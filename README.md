@@ -5,8 +5,13 @@ Welcome to my cybersecurity skill development portfolio. This site documents my 
 ---
 
 🔐 Projects
+## Labs
 
-- [TryHackMe - First Lab](tryhackme-first-lab.md)
+### Wireshark Network Analysis Lab
+
+In this lab I captured and analyzed network traffic using Wireshark. I examined DNS, HTTP, and TCP packets to better understand how data moves across a network.
+
+[Read the lab](link will go here later)
 
 ---
 
