@@ -1,4 +1,4 @@
-# wireshark Network Analysis Lab
+# Wireshark Network Analysis Lab
 
 Lab blog
 
