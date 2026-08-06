@@ -16,5 +16,5 @@ Welcome to my cybersecurity skill development portfolio. This site documents my 
 ## About Me
 
 - CompTIA Security+
-- Hands-on labs with TryHackMe
-- Aspiring Cybersecurity Analyst
+- Hands-on labs 
+
